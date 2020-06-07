@@ -1,0 +1,6 @@
+1	2	3	4
+methane	ethane	propane	butane
+one	two	three	four
+une	deux	trois	quatre
+ichi	ni	san	shi
+einer	zwei	drei	vier
